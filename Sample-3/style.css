@@ -565,7 +565,7 @@ html {
     width: 100%;
     height: auto;
     object-fit: cover; /* Ensures the image fills the container while preserving its aspect ratio */
-    opacity: 0.4; /* Keeps the faded effect */
+    opacity: 1; /* Keeps the faded effect */
     transition: opacity 0.3s ease; /* Smooth opacity transition */
 }
 
